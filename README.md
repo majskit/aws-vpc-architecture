@@ -1,5 +1,12 @@
 # AWS VPC Architecture
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![VPC](https://img.shields.io/badge/VPC-Networking-blue)
+![EC2](https://img.shields.io/badge/EC2-Compute-blueviolet)
+![NAT Gateway](https://img.shields.io/badge/NAT_Gateway-Networking-green)
+![Security Groups](https://img.shields.io/badge/Security_Groups-Security-red)
+![Bastion Host](https://img.shields.io/badge/Bastion_Host-Access-yellow)
+
 ### Overview
 
 Built a custom VPC on AWS from scratch with public and private subnets to establish network isolation between internet-facing and internal resources.
