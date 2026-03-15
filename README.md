@@ -1,4 +1,4 @@
-## AWS VPC Architecture
+# AWS VPC Architecture
 
 ### Overview
 
