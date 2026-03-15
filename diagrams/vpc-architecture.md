@@ -1,4 +1,4 @@
-# Multi-Tier VPC Architecture Diagram
+# VPC Architecture Diagram
 
 ```mermaid
 graph TB
